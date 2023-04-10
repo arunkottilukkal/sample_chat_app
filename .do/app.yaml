@@ -1,0 +1,6 @@
+name: sample_chat_app
+services:
+- name: web
+  github:
+    repo: arunkottilukkal/sample_chat_app
+    branch: main

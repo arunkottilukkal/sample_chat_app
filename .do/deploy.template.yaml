@@ -1,0 +1,7 @@
+spec:
+  name: sample_chat_app
+  services:
+  - name: web
+    git:
+      branch: main
+      repo_clone_url: https://github.com/arunkottilukkal/sample_chat_app.git
